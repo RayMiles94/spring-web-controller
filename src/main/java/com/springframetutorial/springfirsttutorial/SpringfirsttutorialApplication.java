@@ -1,3 +1,10 @@
+/*
+  spring framework application
+  basic of spring
+  projet name: libary
+  author : raymiles
+  spring recipe = spring boot + spring web + spring data  + spring mvc + spring actuator
+*/
 package com.springframetutorial.springfirsttutorial;
 
 import org.springframework.boot.SpringApplication;
